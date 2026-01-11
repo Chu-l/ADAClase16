@@ -1,7 +1,7 @@
 {
   "name": "adaclase16",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este repositorio contiene los ejercicios prácticos realizados durante la **Clase 16** del curso de **Introducción a JavaScript**, enfocados en el uso de métodos avanzados de arrays para la manipulación y transformación de datos.",
   "main": "actividades.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chu-l/ADAClase16/issues"
   },
-  "homepage": "https://github.com/Chu-l/ADAClase16#readme"
+  "homepage": "https://github.com/Chu-l/ADAClase16#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
